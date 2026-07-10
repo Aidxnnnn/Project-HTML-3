@@ -1,0 +1,37 @@
+body {
+  background-color: burlywood;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+  color: whitesmoke;
+  border: 2px solid white;
+  padding: 20px;
+}
+
+p {
+  color: whitesmoke;
+}
+
+h2 {
+  color: whitesmoke;
+}
+
+img {
+  height: 200px;
+  width: 300px;
+}
+p sub {
+  color: whitesmoke;
+}
+
+/* #last {
+  color: green;
+}
+
+.orange {
+  color: orange;
+} */
+form {
+  color:black;
+}
